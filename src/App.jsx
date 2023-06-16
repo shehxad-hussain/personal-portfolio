@@ -3,6 +3,7 @@ import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
 import Experties from "./components/Experties/Experties";
 import Work from "./components/Work/Work";
+import Portfolio from "./components/Portfolio/Portfolio";
 
 
 const App = () => {
@@ -11,6 +12,7 @@ const App = () => {
       <Hero />
       <Experties />
       <Work />
+      <Portfolio />
    </div>
 };
 
