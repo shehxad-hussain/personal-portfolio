@@ -5,6 +5,7 @@ import Experties from "./components/Experties/Experties";
 import Work from "./components/Work/Work";
 import Portfolio from "./components/Portfolio/Portfolio";
 import People from "./components/People/People";
+import Footer from "./components/Footer/Footer";
 
 
 const App = () => {
@@ -15,6 +16,7 @@ const App = () => {
       <Work />
       <Portfolio />
       <People />
+      <Footer />
    </div>
 };
 
