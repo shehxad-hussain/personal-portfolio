@@ -16,7 +16,7 @@ const Hero = () => {
           <motion.span className="primaryText" variants={fadeIn("right", "tween", 0.2, 1)}>
             Hey There,
             <br />
-            I'm Shehzad.
+            I'm Shehzad Hussain.
           </motion.span>
           <motion.span className="secondaryText"variants={fadeIn("left", "tween", 0.4, 1)}>
             I am frontend developer
@@ -38,7 +38,7 @@ const Hero = () => {
 
         <div className={css.lowerElements}>
           <motion.div variants={fadeIn("right", "tween", 0.3, 1)} className={css.experience}>
-            <div className="primaryText">2.5</div>
+            <div className="primaryText">3</div>
             <div className="secondaryText">
               <div>Years</div>
               <div>Experience</div>
